@@ -3,3 +3,4 @@ numpy
 opencv-python-headless # Use this one, as Streamlit handles the display
 streamlit
 streamlit-webrtc
+av
